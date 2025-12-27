@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋 I’m K.D.P.I. Bandara
 
-<!--
-**Indeewaree/Indeewaree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a proactive and organized software engineering graduate with hands-on experience in Java, Python, MySQL, and Web Development. I enjoy building reliable applications, learning new technologies, and collaborating on meaningful projects.
 
-Here are some ideas to get you started:
+🛠️ Skills & Technologies
+Programming:Java, Python
+Web: HTML, CSS, JavaScript
+Databases: MySQL
+Other: System Analysis, Database Design, Software Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education
+BEng in Software Engineering – London Metropolitan University
+BSc in Physical Science – University of Peradeniya (Ongoing)
+HND in Computing (Software Engineering) – ESoft Metro Campus
+
+🌍 Languages
+English
+Sinhala
+Tamil
+
+🤝 Looking to Collaborate On
+Software development projects
+Web applications
+Beginner-friendly open-source projects
+
